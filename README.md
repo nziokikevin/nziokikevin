@@ -27,7 +27,7 @@ const nzioki = {
         },
         backEnd: {
             Ruby: ["Ruby on Rails"],
-        }
+        },
         databases: ["sqlite"]
     },
     architecture: ["Single page applications"],
