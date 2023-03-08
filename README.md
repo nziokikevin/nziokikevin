@@ -30,7 +30,7 @@ const nzioki = {
         databases: ["sqlite"]
     },
     architecture: ["Single page applications"],
-    currentFocus: "Currently learning Angular and Tailwind CSS",
+    currentFocus: "Learning Angular and Tailwind CSS",
     funFact: "I view the world as a place of abundance. There is plenty for everyone."
 };
 ```
