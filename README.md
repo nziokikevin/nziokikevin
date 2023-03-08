@@ -12,7 +12,6 @@ I am a junior Software Developer, currently contributing to open source projects
 </br>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/NziokiKevin1)
-[![Linkedin: anmol](https://img.shields.io/badge/-Nzioki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-nzioki-43a2b8169/)](www.linkedin.com/in/kevin-nzioki)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
