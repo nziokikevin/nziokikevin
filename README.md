@@ -5,7 +5,6 @@ I am a Fullstack Software Developer, located in Nairobi, Kenya.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36E3F7&background=FF2DFE00&width=435&lines=%F0%9F%92%BC+I+am+available.)](https://git.io/typing-svg)
 
-</br>
 <h3 align="left">Contact me through: <a href="mailto:kevinnzioki10@gmail.com" target="_blank"><img align="center" alt="Gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> </h3>
 
 </br>
